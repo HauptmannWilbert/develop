@@ -1,8 +1,0 @@
-[submodule "modules/menu_main"]
-	path = modules/menu_main
-	url = https://github.com/HauptmannWilbert/bitrix-modules.git
-	branch = main
-[submodule "modules/news"]
-	path = modules/news
-	url = https://github.com/HauptmannWilbert/bitrix-modules.git
-	branch = main
