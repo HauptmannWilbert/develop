@@ -1,4 +1,0 @@
-[submodule "modules/personal_cabinet"]
-	path = modules/personal_cabinet
-	url = https://github.com/HauptmannWilbert/bitrix-modules.git
-	branch = main
